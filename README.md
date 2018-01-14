@@ -1,5 +1,6 @@
 # ESP_PZEM
-Board based on ESP8266-01 provides serial between with single or multiple PZEM-004T (with multiplexing). Built-in auto reset feature when uploading (GPIO0 is LOW)
+##UNDER TESTING!!!
+Board based on ESP8266-01 provides serial between with single or multiple PZEM-004T (with multiplexing). Built-in auto reset feature when uploading (GPIO0 is LOW). Fits above/under PZEM-004T board.
 
 ![top](ESP_PZEM_v2.1_Combined_Top.png)
 
@@ -11,7 +12,7 @@ Qty | Value |Package
 ---|:---|:---
 2 | 100n | 0805
 1 | 100uF/6.3V | SMC_B
-2 | SS16 | DO214AC
+2 | BAT54C | SOT-23
 1 | ESP01S | ESP-01
 1 | FTDI_CONN | PINHEAD-6 
 2 | BSS138 | SOT23
