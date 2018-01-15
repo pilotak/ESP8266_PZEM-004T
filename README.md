@@ -1,5 +1,5 @@
 # ESP_PZEM
-##UNDER TESTING!!!
+## UNDER TESTING, FW under development
 Board based on ESP8266-01 provides serial between with single or multiple PZEM-004T (with multiplexing). Built-in auto reset feature when uploading (GPIO0 is LOW). Fits above/under PZEM-004T board.
 
 ![top](ESP_PZEM_v2.1_Combined_Top.png)
@@ -8,6 +8,8 @@ Board based on ESP8266-01 provides serial between with single or multiple PZEM-0
 
 ## BOM
 ### Single PZEM
+Solder both jumpers to B
+
 Qty | Value |Package
 ---|:---|:---
 2 | 100n | 0805
@@ -23,6 +25,8 @@ Qty | Value |Package
 1 | S4B-XH-A-1 | JST-XH-04-RIGHT-ANGLE
 
 ### Up to 4 PZEMs
+Solder both jumpers to A
+
 add to above
 
 Qty | Value |Package
